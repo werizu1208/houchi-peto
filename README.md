@@ -10,7 +10,4 @@
 透明ウィンドウで、ドットのペットがタスクバーの上を歩くだけ。
 Unity 側で一番リスクの高い「透明・最前面・クリック素通りのウィンドウ」を早めに確認する。
 
-## セットアップ
-
-1. Unity Hub で新規 2D プロジェクトをこのフォルダに作成する
-2. 透明ウィンドウには UniWindowController（kirurobo、MIT）を試す
+動かし方と確かめたいことは [docs/prototype.md](docs/prototype.md)。
